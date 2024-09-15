@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\backend01\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Migrations\\20240915105156_Migartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Instiute01\\Migrations\\20240915105156_Migartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|c:\\users\\hp\\downloads\\backend01\\backend\\instiute01\\models\\recentylyplacedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|solutionrelative:instiute01\\models\\recentylyplacedstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|c:\\users\\hp\\downloads\\backend01\\backend\\instiute01\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|solutionrelative:instiute01\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.Students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.RecentylyPlacedStudents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|c:\\users\\hp\\downloads\\backend01\\backend\\instiute01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74301CC-5293-496F-8E75-4E1D6DD3E7D8}|Instiute01\\Instiute01.csproj|solutionrelative:instiute01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240915105156_Migartion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Migrations\\20240915105156_Migartion.cs",
+              "RelativeDocumentMoniker": "Instiute01\\Migrations\\20240915105156_Migartion.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Migrations\\20240915105156_Migartion.cs",
+              "RelativeToolTip": "Instiute01\\Migrations\\20240915105156_Migartion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:51:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecentylyPlacedStudents.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Models\\RecentylyPlacedStudents.cs",
+              "RelativeDocumentMoniker": "Instiute01\\Models\\RecentylyPlacedStudents.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Models\\RecentylyPlacedStudents.cs",
+              "RelativeToolTip": "Instiute01\\Models\\RecentylyPlacedStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T10:45:39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Instiute01\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Instiute01\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:25:39.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.Students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.Students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T06:13:39.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.RecentylyPlacedStudents.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.RecentylyPlacedStudents.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/instit/True/SqlTable/dbo.RecentylyPlacedStudents.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-15T06:13:23.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Instiute01\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\backend01\\backend\\Instiute01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Instiute01\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T06:02:39.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
